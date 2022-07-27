@@ -1,0 +1,53 @@
+.wrap {
+    background: rgb(90, 112, 128);
+    width: 250px;
+    padding: 200px;
+    height: 500px;
+}
+
+.h1 {
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.ul {
+    padding: 50px;
+}
+
+.inp_box {
+    width: 223px;
+    height: 200px;
+    position: absolute;
+    bottom: 460px;
+    border: 2px solid black;
+    background: #fff;
+}
+
+#input {
+    position: absolute;
+    top: 221px;
+    left: 410px;
+}
+
+input {
+    width: 220px;
+    height: 38px;
+}
+
+.content_text {
+    display: none;
+}
+
+.content_text_block {
+    display: block;
+}
+
+.inp_box {
+    display: none;
+}
+
+.inp_box_block {
+    display: block;
+}
